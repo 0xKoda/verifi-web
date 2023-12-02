@@ -7,7 +7,7 @@ Too many web2 security issues still affect web3. Recently, DNS takeovers have be
 
 ```sh
 git clone https://github.com/0xkoda/verifi-web.git
-cd veerifi-web
+cd verifi-web
 ```
 
 ### Run Tests
@@ -16,8 +16,8 @@ cd veerifi-web
 forge test
 ```
 
-## Contributions and Issues
-Feel free to contribute to the project by submitting pull requests or opening issues for any bugs or feature suggestions.
+## Contributions 
+Feel free to contribute.
 
 ## ⚠️ Warning 
 This is a POC and should not be used in production.
