@@ -6,8 +6,8 @@ Too many web2 security issues still affect web3. Recently, DNS takeovers have be
 ## Getting Started 
 
 ```sh
-git clone https://github.com/0xkoda/Verifi-web.git
-cd Consent
+git clone https://github.com/0xkoda/verifi-web.git
+cd veerifi-web
 ```
 
 ### Run Tests
